@@ -1,0 +1,24 @@
+Step 1: Running Your Console Application
+
+1 Build and Run the Console Application:
+◦ In Visual Studio, press Ctrl + F5 (or click on Debug > Start Without Debugging) to run your console application.
+
+◦ It will start, and you can interact with it through the console.
+
+
+This will execute the Main method in your Program.cs file, which handles user
+interaction.
+
+
+Step 2: Running Your Unit Tests
+
+1 Run Tests in Visual Studio:
+◦ In Visual Studio, open Test Explorer by navigating to Test > Windows > Test Explorer.
+◦ Click on Run All to run all the tests.
+◦ Visual Studio will build the solution and run the tests, displaying results in the Test Explorer window.
+
+
+2 Test Results:
+◦ The test results will be displayed in the Test Explorer (in Visual Studio) or in the terminal output (if using the command line).
+
+◦ You’ll see the results of each test (whether it passed or failed) and any error messages if a test fails.
